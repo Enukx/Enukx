@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Enukx
 - 👀 I’m interested in Web Desiging
-- 🌱 I’m currently learningbn Cracking
-- 💞️ I’m looking to collaborate on CBC
+- 🌱 I’m currently learning Cracking
+- 💞️ I’m looking to collaborate on Mafia
 - 📫 How to reach me Cool
 
 <!---
