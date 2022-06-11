@@ -10,8 +10,8 @@ Hi There, I'm Enuka, 13 Y.O. Friendly Neighbourhood Programmer From Sri Lanka LK
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TheHamkerCat)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheHamkerCat)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Enukx)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Enukx)
 
 
 ## Languages
@@ -53,4 +53,4 @@ Hi There, I'm Enuka, 13 Y.O. Friendly Neighbourhood Programmer From Sri Lanka LK
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TheHamkerCat&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehamkercat&layout=compact&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Enukx&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  !
