@@ -7,7 +7,14 @@ Hi There, I'm Enuka, 13 Y.O. Friendly Neighbourhood Programmer From Sri Lanka LK
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : Python
 - :cat: Fun fact : Still I am A Student
-
+### 
+```python
+Name = "Enuka Pathiranage"
+who_i_am = [Developer]
+Age = "Restricted"
+Country = "🇱🇰"
+```
+####
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Enukx)
