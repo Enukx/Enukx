@@ -61,3 +61,7 @@ Country = "🇱🇰"
 ## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Enukx&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  !
+
+## 🎵 Now playing
+
+ [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/93n89ticdh484mxywopj48cvi)
