@@ -14,6 +14,8 @@ who_i_am = [Developer]
 Age = "Restricted"
 Country = "🇱🇰"
 ```
+[![Profile views](https://komarev.com/ghpvc/?username=xMalitha&label=Profile%20views)](https://github.com/Enukx)
+
 ####
 ## Where to find me
 
